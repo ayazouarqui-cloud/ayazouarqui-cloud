@@ -6,7 +6,7 @@
 *Je transforme des données complexes en décisions business claires.*
  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayazouarqui5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zouarqui/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-zouarqui-71b17129b/)
 [![Open to Work](https://img.shields.io/badge/Ouverte%20au%20freelance-success?style=for-the-badge)](mailto:ayazouarqui5@gmail.com)
  
 </div>
