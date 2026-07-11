@@ -20,47 +20,61 @@ Je recherche des missions **Data Analyst / Data Scientist / Data Engineer** pour
  
 ---
  
-### 🛠️ Stack technique
- 
 <div align="center">
+ 
 **Langages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
  
-**Big Data & Streaming**
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square)
+**Data Analysis**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-495867?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-495867?style=flat-square)
  
-**Machine Learning & Deep Learning**
+**Machine Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means-495867?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-495867?style=flat-square)
+![HistGradientBoosting](https://img.shields.io/badge/HistGradientBoosting-495867?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-495867?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-495867?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-495867?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-495867?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-495867?style=flat-square)
+ 
+**Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-3163FF?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-explainability-black?style=flat-square)
+![MLP](https://img.shields.io/badge/MLP-495867?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-495867?style=flat-square)
+![GRU](https://img.shields.io/badge/GRU-495867?style=flat-square)
  
 **Bases de données**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-495867?style=flat-square)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
  
 **Visualisation & BI**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-yellow?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-495867?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
  
+**Big Data & Streaming**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-495867?style=flat-square)
+ 
 **Optimisation**
-![Optimisation](https://img.shields.io/badge/PL%2FPLNE-Th%C3%A9orie%20des%20graphes-blueviolet?style=flat-square)
+![PL/PLNE](https://img.shields.io/badge/PL%2FPLNE-495867?style=flat-square)
+![Théorie des graphes](https://img.shields.io/badge/Th%C3%A9orie%20des%20graphes-495867?style=flat-square)
  
 </div>
+
 ---
  
 ### 🚀 Projets
