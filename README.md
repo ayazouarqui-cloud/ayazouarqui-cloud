@@ -123,9 +123,9 @@ Interface de visualisation de données avec Flask, Python et JavaScript.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayazouarqui-cloud&show_icons=true&theme=default&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=ayazouarqui-cloud&show_icons=true&include_all_commits=true&hide_border=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazouarqui-cloud&layout=compact&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazouarqui-cloud&layout=compact&hide_border=true">
 
 </div>
 
