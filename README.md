@@ -114,22 +114,27 @@ Interface de visualisation de données avec Flask, Python et JavaScript.
 ---
  
 ### 🌍 Langues
- 
+
 🇩🇿 Arabe (langue maternelle) · 🇫🇷 Français (B2) · 🇬🇧 Anglais (B2)
- 
+
 ---
- 
+
 ### 📊 Stats GitHub
- 
+
 <div align="center">
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ayazouarqui-cloud&show_icons=true&theme=default&hide_border=true)
-![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayazouarqui-cloud&layout=compact&hide_border=true)
- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayazouarqui-cloud&show_icons=true&theme=default&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazouarqui-cloud&layout=compact&hide_border=true" height="170">
+
 </div>
+
 ---
- 
+
 <div align="center">
+
 💼 **Ouverte aux missions freelance et opportunités Data Scientist / Data Analyst / Data Engineer**
+
 📩 N'hésitez pas à me contacter pour discuter d'un projet.
- 
+
 </div>
